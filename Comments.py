@@ -1,8 +1,8 @@
-# FOLLOW PythonProgrammerz NOW!
+# This is single-line comment
 """
-Follow
-PythonProgrammer
-Now!
+this is
+multi-line
+comment
 """
 
-print("did you heard that\ndo it now!")
+print("Comments are awesome,RIGHT!")
