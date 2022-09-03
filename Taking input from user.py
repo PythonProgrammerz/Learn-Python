@@ -1,5 +1,3 @@
-print("What is your name")
-name  = input()
-print("Where are you from")
-place = input()
+name  = input(print("What is your name")).strip().Title()
+place = input(print("Where are you from")).strip().Title()
 print("Hi",name+" from",place+" have a good day.")
