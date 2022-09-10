@@ -1,3 +1,3 @@
 from cowsay import *
-i = (input("Enter your name: "))
+i = trex(input("Enter your name: "))
 
